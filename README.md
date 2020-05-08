@@ -62,7 +62,7 @@ This is a free tool that functions as a frontend for [Microsoft's Network Assess
  
 
 
-**For more details see: [http://www.myskypelab.com/2017/08/network-assessor-for-skype-for-business.html](http://www.myskypelab.com/2017/08/network-assessor-for-skype-for-business.html)**
+**For more details see: [http://www.myteamslab.com/2017/08/network-assessor-for-skype-for-business.html](http://www.myteamslab.com/2017/08/network-assessor-for-skype-for-business.html)**
 
 
  
